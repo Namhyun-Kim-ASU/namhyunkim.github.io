@@ -17,15 +17,15 @@ I'm passionate about advancing wireless communication technologies and exploring
   Arizona State University, Tempe, AZ
 
 - **M.S. in Electrical Engineering** (2023)  
-  Korea Advanced Institute of Science and Technology (KAIST), South Korea
+  Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), South Korea
 
 - **B.S. in Electrical and Electronic Engineering** (Hons., 2021)  
-  Yonsei University, South Korea
+  [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), South Korea
 
 ## Professional Experience
 
 - **Researcher** (2023)  
-  SK Telecom Company Ltd., South Korea  
+  [SK Telecom](https://www.sktelecom.com/index_en.html), South Korea  
   *Gained hands-on experience in operating and optimizing 5G/LTE radio access networks (RAN)*
 
 ## Research Interests
