@@ -26,7 +26,7 @@ I focus on modern wireless networks and how AI can reshape their design and opti
 
 - **Network Engineer** (2023)  
   [SK Telecom](https://www.sktelecom.com/index_en.html), South Korea  
-  *Gained hands-on experience in operating and optimizing 5G/LTE cellular radio access networks (RAN)*
+  *Gained hands-on experience in operating and optimizing 5G/LTE cellular radio access networks (RAN), including LTE/5G L1/L2/L3 network planning, engineering, troubleshooting, and performance analysis. Skilled with Python, SQL, and Kubernetes.*
 
 ## Research Interests
 
