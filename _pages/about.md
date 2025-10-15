@@ -30,7 +30,7 @@ I work on next-generation wireless networks and how AI can rethink their design 
 
 ## Research Interests
 
-My work spans massive MIMO, rate-splitting multiple access, and integrated sensing and communications. Visit the [Research Interests](/research/) page for a deeper dive into current themes.
+I explore a wide range of wireless communication challenges—from physical-layer signal processing to AI-augmented network intelligence. Visit the [Research Interests](/research/) page for a deeper dive into current themes.
 
 ## Scholarships
 
