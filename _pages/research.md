@@ -8,14 +8,11 @@ Understanding and optimizing wireless networks is at the core of my research. I 
 
 ## Focus Areas
 
+- **Foundation Models for Wireless Communications**  
+  Building large-scale neural representations of spectrum and channel behavior that transfer across bands, hardware, and deployment scenarios—enabling few-shot adaptation for tasks like signal classification, interference detection, and beam management.
+
 - **Massive MIMO Communications**  
   Designing scalable transceiver architectures that extract the full potential of large antenna arrays under realistic hardware and channel constraints.
-
-- **Rate-Splitting Multiple Access (RSMA)**  
-  Developing resilient multi-user transmission strategies that balance spectral efficiency and reliability without heavy channel-feedback overhead.
-
-- **AI/ML-Driven Wireless Optimization**  
-  Leveraging model-augmented machine learning to guide adaptive resource allocation, beamforming, and interference mitigation across diverse network scenarios.
 
 - **Integrated Sensing and Communication (ISAC)**  
   Building joint sensing-and-communication frameworks that enable mobile platforms to perceive their environment while maintaining robust connectivity.
