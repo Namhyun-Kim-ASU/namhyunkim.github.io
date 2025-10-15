@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Namhyun Kim - Wireless Communications Researcher"
+title: "Namhyun Kim"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! Welcome to my research hub. I'm Namhyun Kim, and I'm currently pursuing my PhD in Electrical and Computer Engineering at Arizona State University. 
+Hi there! I'm Namhyun Kim, and I'm currently pursuing my PhD in Electrical and Computer Engineering at Arizona State University. 
 
 I'm passionate about advancing wireless communication technologies and exploring how artificial intelligence can revolutionize the way we design and optimize communication systems. My journey in this field has taken me from South Korea to Arizona, where I continue to push the boundaries of what's possible in wireless communications.
 
