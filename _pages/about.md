@@ -30,12 +30,11 @@ I'm passionate about advancing wireless communication technologies and exploring
 
 ## Research Interests
 
-My research focuses on several exciting areas that are shaping the future of wireless communications:
+My work spans massive MIMO, rate-splitting multiple access, and integrated sensing and communications. Visit the [Research Interests](/research/) page for a deeper dive into current themes.
 
-- **Massive MIMO Communications**: Exploring how to maximize the potential of large antenna arrays for better performance and efficiency
-- **Multiple Access Technologies**: Developing innovative ways for multiple users to share wireless resources effectively
-- **AI/ML-based Wireless Communications**: Harnessing the power of machine learning to solve complex communication challenges
-- **Integrated Sensing and Communication (ISAC)**: Pioneering the convergence of sensing and communication capabilities in next-generation systems
+## Scholarships
+
+- **Korean Government Scholarship Program (KGSP)** — [NIIED, Republic of Korea Government](https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do): A prestigious national scholarship providing funding support for two years to pursue graduate studies abroad.
 
 ## Publications
 
