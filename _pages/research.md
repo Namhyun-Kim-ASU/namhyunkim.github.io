@@ -19,5 +19,5 @@ Understanding and optimizing wireless networks is at the core of my research. I 
 
 ## Current Directions
 
-- **Spectrum foundation models (LWM-Spectro)**  
-  Training generative models on heterogeneous spectrum captures to uncover reusable neural priors, then adapting them to downstream spectrum sensing and interference diagnostics with minimal labeled data.
+- **Wireless baseband spectrogram foundation models (LWM-Spectro)**  
+  Training generative models on heterogeneous baseband spectrogram captures to uncover reusable neural priors, then adapting them to downstream spectrum sensing and interference diagnostics with minimal labeled data.
