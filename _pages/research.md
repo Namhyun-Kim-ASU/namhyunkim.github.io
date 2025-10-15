@@ -19,6 +19,5 @@ Understanding and optimizing wireless networks is at the core of my research. I 
 
 ## Current Directions
 
-- CSI-free downlink FDD frameworks that blend statistical estimation with RSMA to simplify deployment in dense cellular systems.
-- Sensing-aware precoder design tailored for mmWave and sub-THz systems where bandwidth, latency, and situational awareness must be optimized simultaneously.
-- Edge-intelligent coordination schemes that couple federated learning with radio access decisions for highly dynamic connected environments.
+- **Spectrum foundation models (LWM-Spectro)**  
+  Training generative models on heterogeneous spectrum captures to uncover reusable neural priors, then adapting them to downstream spectrum sensing and interference diagnostics with minimal labeled data.
