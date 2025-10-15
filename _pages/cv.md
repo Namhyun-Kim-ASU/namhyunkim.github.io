@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="pdf-viewer">
   <iframe
-    src="{{ '/files/CV.pdf#view=FitH' | relative_url }}"
+    src="https://docs.google.com/gview?embedded=1&url={{ '/files/CV.pdf' | absolute_url }}"
     width="100%"
     height="900"
     style="border: none;"
@@ -17,4 +17,4 @@ redirect_from:
   </iframe>
 </div>
 
-If the embedded PDF does not load in your browser, you can <a href="{{ '/files/CV.pdf' | relative_url }}">download the CV directly</a>.
+If the embedded viewer does not load, you can <a href="{{ '/files/CV.pdf' | relative_url }}">download the CV directly</a>.

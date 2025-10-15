@@ -14,7 +14,7 @@ I focus on modern wireless networks and how AI can reshape their design and opti
 ## Education
 
 - **PhD in Electrical and Computer Engineering** (In Progress)  
-  Arizona State University, Tempe, AZ
+  [Arizona State University](https://www.asu.edu/), Tempe, AZ
 
 - **M.S. in Electrical Engineering** (2023)  
   Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), Daejeon, South Korea
