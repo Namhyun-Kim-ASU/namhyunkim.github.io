@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! I'm Namhyun Kim, and I'm currently pursuing my PhD in Electrical and Computer Engineering at Arizona State University. 
 
-I focus on modern wireless networks and how AI can reshape their design and optimization. That path took me from South Korea to Arizona, where I keep pushing what these systems can do.
+I work on next-generation wireless networks and how AI can rethink their design and optimization. That path led me from South Korea to Arizona, where I keep exploring what's possible with these systems.
 
 ## Education
 
