@@ -40,7 +40,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-2358-6559"
   semantic         : # URL
-  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +53,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

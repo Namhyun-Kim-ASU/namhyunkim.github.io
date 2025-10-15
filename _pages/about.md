@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Namhyun Kim - PhD Student in Electrical and Computer Engineering"
+title: "Namhyun Kim - Wireless Communications Researcher"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,16 +17,16 @@ I'm passionate about advancing wireless communication technologies and exploring
   Arizona State University, Tempe, AZ
 
 - **M.S. in Electrical Engineering** (2023)  
-  Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), South Korea
+  Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), Daejeon, South Korea
 
 - **B.S. in Electrical and Electronic Engineering** (Hons., 2021)  
-  [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), South Korea
+  [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), Seoul, South Korea
 
 ## Professional Experience
 
-- **Researcher** (2023)  
+- **Network Engineer** (2023)  
   [SK Telecom](https://www.sktelecom.com/index_en.html), South Korea  
-  *Gained hands-on experience in operating and optimizing 5G/LTE radio access networks (RAN)*
+  *Gained hands-on experience in operating and optimizing 5G/LTE cellular radio access networks (RAN)*
 
 ## Research Interests
 
@@ -37,9 +37,10 @@ My research focuses on several exciting areas that are shaping the future of wir
 - **AI/ML-based Wireless Communications**: Harnessing the power of machine learning to solve complex communication challenges
 - **Integrated Sensing and Communication (ISAC)**: Pioneering the convergence of sensing and communication capabilities in next-generation systems
 
-## What I'm Working On
+## Publications
 
-I'm particularly excited about my recent work on rate-splitting multiple access (RSMA) techniques for massive MIMO systems and integrated sensing and communications. These technologies have the potential to significantly improve the efficiency and capabilities of future wireless networks.
+- **Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO Without CSI Feedback** — Accepted, *IEEE Transactions on Wireless Communications* (Aug. 2025)
+- **Integrated Sensing and Communications in Downlink FDD MIMO without CSI Feedback** — Accepted, *IEEE Transactions on Wireless Communications* (Aug. 2025)
 
 ## Let's Connect
 
