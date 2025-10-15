@@ -8,13 +8,12 @@ redirect_from:
 ---
 
 <div class="pdf-viewer">
-  <iframe
-    src="https://docs.google.com/gview?embedded=1&url={{ '/files/CV.pdf' | absolute_url }}"
+  <object
+    data="{{ '/files/CV.pdf' | relative_url }}"
+    type="application/pdf"
     width="100%"
     height="900"
-    style="border: none;"
   >
-  </iframe>
+    <p>Your browser doesn’t support inline PDFs. You can <a href="{{ '/files/CV.pdf' | relative_url }}">download the CV here</a>.</p>
+  </object>
 </div>
-
-If the embedded viewer does not load, you can <a href="{{ '/files/CV.pdf' | relative_url }}">download the CV directly</a>.
