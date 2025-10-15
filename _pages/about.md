@@ -19,7 +19,7 @@ I'm passionate about advancing wireless communication technologies and exploring
 - **M.S. in Electrical Engineering** (2023)  
   Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), Daejeon, South Korea
 
-- **B.S. in Electrical and Electronic Engineering** (Hons., 2021)  
+- **B.S. in Electrical and Electronic Engineering** (Hons., 2021 — graduated in the top 3% of the class)  
   [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), Seoul, South Korea
 
 ## Professional Experience
