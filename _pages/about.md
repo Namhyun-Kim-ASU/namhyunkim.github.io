@@ -34,7 +34,7 @@ I explore a wide range of wireless communication challenges—from physical-laye
 
 ## Scholarships
 
-- **Korean Government Scholarship Program (KGSP)** — [NIIED, Republic of Korea Government](https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do): A prestigious national scholarship providing funding support for two years to pursue graduate studies abroad.
+- **Korean Government Scholarship Program (KGSP)** — [NIIED, Republic of Korea Government](https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do): A prestigious national scholarship providing funding support to pursue graduate studies abroad.
 
 ## Publications
 
